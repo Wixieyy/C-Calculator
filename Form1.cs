@@ -18,6 +18,5 @@ namespace FCalc
             var text = ((Button)sender).Text;
             inputBox.Text += text;
         }
-
     }
 }
