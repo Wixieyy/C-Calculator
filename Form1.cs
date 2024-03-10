@@ -12,5 +12,11 @@ namespace FCalc
             var text = ((Button)sender).Text;
             inputBox.Text += text;
         }
+
+        private void arithmeticButtons_click(object sender, EventArgs e)
+        {
+            var text = ((Button)sender).Text;
+            inputBox.Text += text;
+        }
     }
 }
