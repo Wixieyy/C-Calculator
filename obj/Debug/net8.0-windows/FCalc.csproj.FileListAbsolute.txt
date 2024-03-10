@@ -1,0 +1,16 @@
+C:\Users\vuzze\source\repos\FCalc\FCalc\bin\Debug\net8.0-windows\FCalc.exe
+C:\Users\vuzze\source\repos\FCalc\FCalc\bin\Debug\net8.0-windows\FCalc.deps.json
+C:\Users\vuzze\source\repos\FCalc\FCalc\bin\Debug\net8.0-windows\FCalc.runtimeconfig.json
+C:\Users\vuzze\source\repos\FCalc\FCalc\bin\Debug\net8.0-windows\FCalc.dll
+C:\Users\vuzze\source\repos\FCalc\FCalc\bin\Debug\net8.0-windows\FCalc.pdb
+C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\FCalc.csproj.GenerateResource.cache
+C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\FCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\FCalc.AssemblyInfoInputs.cache
+C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\FCalc.AssemblyInfo.cs
+C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\FCalc.csproj.CoreCompileInputs.cache
+C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\FCalc.dll
+C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\refint\FCalc.dll
+C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\FCalc.pdb
+C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\FCalc.genruntimeconfig.cache
+C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\ref\FCalc.dll
+C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\FCalc.FCalc.resources
