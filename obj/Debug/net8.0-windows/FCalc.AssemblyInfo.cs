@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FCalc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0ed212a91671c4cb0705b3db8639ca7dc027c9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9295c2c827e78f0f1a21350451613899ea8d8f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("FCalc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FCalc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -356,5 +356,6 @@ namespace FCalc
         private Button button10;
         private Button button11;
         private Button button12;
+
     }
 }

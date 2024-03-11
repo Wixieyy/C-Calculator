@@ -14,3 +14,4 @@ C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\FCalc.pdb
 C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\FCalc.genruntimeconfig.cache
 C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\ref\FCalc.dll
 C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\FCalc.FCalc.resources
+C:\Users\vuzze\source\repos\FCalc\FCalc\obj\Debug\net8.0-windows\FCalc.sourcelink.json

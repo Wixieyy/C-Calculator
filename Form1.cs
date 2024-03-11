@@ -43,5 +43,6 @@ namespace FCalc
         {
             inputBox.Text = String.Empty;
         }
+
     }
 }
