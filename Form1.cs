@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Configuration;
 
 namespace FCalc
@@ -44,5 +45,18 @@ namespace FCalc
             inputBox.Text = String.Empty;
         }
 
+        private void calculateButton_click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < inputBox.Text.Length; i++)
+            {
+                if ()
+                {
+                    
+                }
+            }
+
+            String[] numbers = inputBox.Text.Split('+', '-', '*', '/');
+            inputBox.Text = (Int32.Parse(numbers[0]) + Int32.Parse(numbers[1])).ToString();
+        }
     }
 }

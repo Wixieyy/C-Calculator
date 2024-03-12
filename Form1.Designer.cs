@@ -97,6 +97,7 @@ namespace FCalc
             buttonCalculate.TabIndex = 4;
             buttonCalculate.Text = "=";
             buttonCalculate.UseVisualStyleBackColor = true;
+            buttonCalculate.Click += calculateButton_click;
             // 
             // buttonDot
             // 
