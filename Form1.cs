@@ -43,20 +43,32 @@ namespace FCalc
         private void clearButton_Click(object sender, EventArgs e)
         {
             inputBox.Text = String.Empty;
+            allowed = true;
         }
 
         private void calculateButton_click(object sender, EventArgs e)
         {
             for (int i = 0; i < inputBox.Text.Length; i++)
             {
-                if ()
+                String[] numbers = inputBox.Text.Split('+', '-', '*', '/');
+
+                if (inputBox.Text[i] == '+')
                 {
-                    
+                    inputBox.Text = (Int32.Parse(numbers[0]) + Int32.Parse(numbers[1])).ToString();
+                }
+                else if (inputBox.Text[i] == '-')
+                {
+                    inputBox.Text = (Int32.Parse(numbers[0]) - Int32.Parse(numbers[1])).ToString();
+                }
+                else if (inputBox.Text[i] == '*')
+                {
+                    inputBox.Text = (Int32.Parse(numbers[0]) * Int32.Parse(numbers[1])).ToString();
+                }
+                else if (inputBox.Text[i] == '/')
+                {
+                    inputBox.Text = (Int32.Parse(numbers[0]) / Int32.Parse(numbers[1])).ToString();
                 }
             }
-
-            String[] numbers = inputBox.Text.Split('+', '-', '*', '/');
-            inputBox.Text = (Int32.Parse(numbers[0]) + Int32.Parse(numbers[1])).ToString();
         }
     }
 }
