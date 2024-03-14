@@ -108,7 +108,7 @@ namespace FCalc
             buttonDot.TabIndex = 3;
             buttonDot.Text = ".";
             buttonDot.UseVisualStyleBackColor = true;
-            buttonDot.Click += arithmeticButtons_click;
+            buttonDot.Click += decimalButton_click;
             // 
             // buttonPlus
             // 
