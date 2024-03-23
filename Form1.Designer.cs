@@ -295,6 +295,7 @@ namespace FCalc
             button12.TabIndex = 21;
             button12.Text = "%";
             button12.UseVisualStyleBackColor = true;
+            button12.Click += arithmeticButtons_click;
             // 
             // FCalc
             // 

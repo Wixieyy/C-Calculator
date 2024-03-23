@@ -74,6 +74,10 @@ namespace FCalc
                 {
                     inputBox.Text = (Double.Parse(numbers[0]) / Double.Parse(numbers[1])).ToString();
                 }
+                else if (inputBox.Text[i] == '%')
+                {
+                    inputBox.Text = (Double.Parse(numbers[0]) % Double.Parse(numbers[1])).ToString();
+                }
             }
         }
 
